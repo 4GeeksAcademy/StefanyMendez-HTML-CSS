@@ -53,7 +53,7 @@ body{
     flex-direction: column;
     height: auto;
     width: 45rem;
-    margin: 0 33%;
+    margin: auto;
     align-content: center;
     
 }
